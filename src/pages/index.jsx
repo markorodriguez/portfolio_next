@@ -12,8 +12,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className='min-h-screen w-full bg-dark text-light'>
-        <div className='w-11/12 md:w-8/12 mx-auto'>
-          <Navbar/>
+
+          <Navbar />
+
+        <div className='absolute -bottom-11'>
+          uwu
         </div>
       </main>
     </>
